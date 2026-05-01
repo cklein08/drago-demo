@@ -1,0 +1,10 @@
+{
+  "mappings": [
+    "/content/drago-demo:/",
+    "/content/drago-demo/configuration:/.helix/config.json",
+    "/content/drago-demo/metadata:/metadata.json"
+  ],
+  "includes": [
+    "/content/drago-demo/"
+  ]
+}
