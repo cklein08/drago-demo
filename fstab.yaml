@@ -1,5 +1,2 @@
 mountpoints:
-  /:
-    url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/cklein08/drago-demo/main"
-    type: "markup"
-    suffix: ".html"
+  /: https://content.da.live/cklein08/drago-demo
